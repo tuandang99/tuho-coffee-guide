@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tuandang99.github.io/tuho-coffee-guide/sitemap.xml
